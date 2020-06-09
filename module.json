@@ -1,0 +1,11 @@
+{
+  "name": "SceneNotes",
+  "title": "Scene Notes",
+  "description": "A module that allows you to create a simple scene note which will be updated for all viewers when you hit save.).",
+  "author": "Richard Bellingham (Skimble)",
+  "scripts": ["./SceneNotes.js"],
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion":"0.6.2",
+  "socket":true
+}
