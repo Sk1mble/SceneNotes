@@ -7,5 +7,7 @@
   "version": "1.0.0",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion":"0.6.2",
+  "manifest":"https://raw.githubusercontent.com/Sk1mble/SceneNotes/master/module.json",
+  "download":"https://github.com/Sk1mble/SceneNotes/archive/master.zip"
   "socket":true
 }
